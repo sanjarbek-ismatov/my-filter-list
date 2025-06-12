@@ -1,0 +1,146 @@
+! May 18, 2025 https://www.oxfordlearnersdictionaries.com
+www.oxfordlearnersdictionaries.com###flex-header-container
+www.oxfordlearnersdictionaries.com##.opal_written.wotd-box
+www.oxfordlearnersdictionaries.com##div.footer-container
+www.oxfordlearnersdictionaries.com###ring-links-box
+
+! May 18, 2025 https://dictionary.cambridge.org
+dictionary.cambridge.org##.pr.lmb-25.lp-10.hbss.bw
+dictionary.cambridge.org##.lp-m_r-15.lp-m_l-15.lpr-10.lpl-10.lp-5.hax.bh.ccn
+dictionary.cambridge.org##.hax.han.lp-xs_l-25.lpl-20.lmb-0.hul-ib.hul-u.hdib-m.hdn
+dictionary.cambridge.org##.lc1.hao.hdb
+dictionary.cambridge.org##.lp-s_t-15.lp-s_25.cf.han.bh.pr
+dictionary.cambridge.org###page-content > .bh.lcs.pr
+dictionary.cambridge.org##.lpl-10.chsb.hoh.hdb-m.hdn
+dictionary.cambridge.org##.htc.pr.lmb-25.bw
+
+! May 18, 2025 https://dictionary.cambridge.org
+dictionary.cambridge.org##div.lmb-25.x.hbss.bw:nth-of-type(5)
+dictionary.cambridge.org##div.lmb-25.x.hbss.bw:nth-of-type(6)
+dictionary.cambridge.org##.superentry.di.pr > .lb-cm.lbb.x.pr
+dictionary.cambridge.org###page-content .bh.lcs.pr
+
+! May 18, 2025 https://music.yandex.com
+music.yandex.com##.NavbarDesktopAnimatedPlusBar_root___wH9W.NavbarDesktopAnimatedBar_root__tTyvO
+music.yandex.com##.VibeBlock_controls__BpDFL
+
+! May 18, 2025 https://www.bbc.co.uk
+www.bbc.co.uk##.orbit-header-container
+www.bbc.co.uk##.orbit-domestic-no.orb-footer
+www.bbc.co.uk###_highlight-index-footer-nav
+www.bbc.co.uk##.b-g-p.bbcle-footer-nav-wrapper
+
+! May 18, 2025 https://www.geeksforgeeks.org
+www.geeksforgeeks.org###header-main__slider-outer-div
+www.geeksforgeeks.org##.three_dot_dropdown
+www.geeksforgeeks.org##.gfg-footer
+www.geeksforgeeks.org##.comment_div
+www.geeksforgeeks.org##.advertise-with-us-div
+
+! May 24, 2025 https://www.khanacademy.org
+www.khanacademy.org###footer
+www.khanacademy.org##._1sxr4kbk
+
+! May 25, 2025 https://www.w3schools.com
+www.w3schools.com###wrappercontainer
+www.w3schools.com##.ga-top-cert-and-course.ga-top.tnb-paid-service.w3-padding-16.bar-item-hover.barex.w3-button.w3-bar-item.tnb-nav-btn
+www.w3schools.com##.ga-top-goals.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-jobs-btn.user-authenticated
+www.w3schools.com##.ga-top-certificates.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-certificates-btn.user-authenticated
+www.w3schools.com##.ga-top-teachers.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-jobs-btn.tnb-for-teachers.user-authenticated
+www.w3schools.com###subtopnav
+
+! May 25, 2025 https://www.google.com
+www.google.com##.dRpWwb.M8OgIe.bzXtMb
+www.google.com##.q9ZDaf.YNk70c.rfiSsc
+
+! May 30, 2025 https://www.msn.com
+www.msn.com##.header-DS-EntryPoint1-1
+www.msn.com###WeatherRightRail-ScreenWidth-c4
+www.msn.com###WeatherMapMini-ScreenWidth-c4
+www.msn.com###WeatherMapMiniV2-ScreenWidth-c4
+www.msn.com###WeatherMapMini
+www.msn.com##.feedsSection-DS-EntryPoint1-1
+www.msn.com##.navbarContainer-DS-EntryPoint1-1
+www.msn.com###header
+
+
+! May 27, 2025 https://learnenglish.britishcouncil.org
+learnenglish.britishcouncil.org##.clearfix.block-block-grouptop-block.block-blockgroup.block
+learnenglish.britishcouncil.org##.col-sm-3
+learnenglish.britishcouncil.org##.comments
+learnenglish.britishcouncil.org##.field--item.field--label-hidden.field--type-fivestar.field--name-field-vote.field
+learnenglish.britishcouncil.org##.clearfix.block-block-contentd82111ef-61d3-44ed-be9d-c262325b7feb.block-block-content.block.wrapper-cta-blue-title
+learnenglish.britishcouncil.org##.container.footer
+learnenglish.britishcouncil.org##.region-footer-top.region
+
+! May 27, 2025 https://www.google.com
+www.google.com##.KLEmSd.qS9jbf.ym1pid
+
+! May 27, 2025 https://learnenglish.britishcouncil.org
+learnenglish.britishcouncil.org##.clearfix.block-block-content174f3255-62f2-4720-8dc3-5fa703eabc6c.block-block-content.block.wrapper-cta-blue-title
+
+! May 27, 2025 https://www.google.com
+www.google.com###slim_appbar
+
+! May 27, 2025 https://www.reddit.com
+www.reddit.com##.border-r-neutral-border.s\:border-r-sm.border-solid.border-0.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
+www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
+www.reddit.com##.theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
+www.reddit.com##.pdp-float-back-btn\:-left-\[2\.5rem\].pdp-float-back-btn\:top-md.pdp-float-back-btn\:absolute.h-\[32px\].w-\[32px\].xs\:block.hidden
+
+! May 27, 2025 https://www.quora.com
+www.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--red.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-ml--medium.qu-focus--textDecoration--none.qu-active--textDecoration--none.c1nud10e.b1cg7ppz.bobc9nh.b1l8alrs.b17i7nxr.q-click-wrapper
+www.quora.com##.qu-bg--raised.qu-mb--small.qu-boxShadow--small.qu-borderColor--raised.qu-borderAll.dom_annotate_question_answer_item_3.q-box > div > div > div > div > div.q-box
+
+! May 28, 2025 https://www.google.com
+!www.google.com###rso > .ULSxyf
+www.google.com###bres > .ULSxyf
+www.google.com##.gb_0.gb_dd.gb_J
+
+! May 28, 2025 https://www.youtube.com
+www.youtube.com###captionz-ytb-btn
+
+! May 29, 2025 https://www.bbc.co.uk
+www.bbc.co.uk###bbcle-header
+
+! May 29, 2025 https://dictionary.cambridge.org
+dictionary.cambridge.org##.cc-ans.cc
+dictionary.cambridge.org##.login-promo-block.lmb-25.lpt-20.lp-15.bo.pr
+
+! May 29, 2025 https://www.google.com
+www.google.com###sfooter
+
+! May 31, 2025 https://www.geeksforgeeks.org
+www.geeksforgeeks.org##.google-translate-parent-element.header-main__left-list-item
+www.geeksforgeeks.org##.login-modal-btn.header-main__signup
+
+! Jun 1, 2025 https://mail.yandex.com
+mail.yandex.com##.PSHeader-Center
+mail.yandex.com##.PSHeaderLogo360_theme_dark.PSHeaderLogo360
+mail.yandex.com##.UserID-name
+
+! Jun 3, 2025 https://web.telegram.org
+web.telegram.org##.input-search
+
+! Jun 3, 2025 https://www.google.com
+www.google.com##.qogDvd
+
+! Jun 3, 2025 https://www.quora.com
+www.quora.com##.false.q-box > .q-box
+www.quora.com##.qu-borderColor--raised.qu-boxShadow--medium.qu-borderBottom.qu-zIndex--header.qu-fullX.q-fixed
+www.quora.com##.qu-borderTop.qu-textAlign--center.qu-py--medium.q-box
+
+! Jun 3, 2025 https://yandex.com
+yandex.com##.informers3
+yandex.com##.HeaderDesktop-Navigation.HeaderNav
+yandex.com##.VideoViewer-element.Viewer-Sidebar
+
+! Jun 3, 2025 https://www.bing.com
+www.bing.com##.header-full.header
+www.bing.com##.b_scopebar
+www.bing.com###bnp\.nid\.64082
+www.bing.com###id_h
+www.bing.com##.stk.rvrr
+www.bing.com##.rsslcc
+www.bing.com##.b_footer
+
