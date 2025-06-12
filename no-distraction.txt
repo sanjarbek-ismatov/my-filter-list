@@ -149,3 +149,13 @@ dictionary.cambridge.org##.hdf.fon.z1.lcs.bh.pr
 dictionary.cambridge.org##a.wordlist-add-button.dwla
 dictionary.cambridge.org##.lp-10 > .lb-cm.lbt.had.degs > div.lpt-10.lb-cm.lbb > .pr.lpr-20.dsource > .pr0.pt0.pa.report-example-inappropriate
 
+! Jun 12, 2025 https://www.youtube.com
+www.youtube.com###newness-dot
+www.youtube.com###end > .ytd-masthead.style-scope
+www.youtube.com###guide-button
+www.youtube.com###chip-bar
+www.youtube.com###guide
+www.youtube.com##yt-tab-shape.yt-tab-shape-wiz--host-clickable.yt-tab-shape-wiz:nth-of-type(3)
+www.youtube.com###content-wrapper
+www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+
