@@ -144,3 +144,8 @@ www.bing.com##.stk.rvrr
 www.bing.com##.rsslcc
 www.bing.com##.b_footer
 
+! Jun 12, 2025 https://dictionary.cambridge.org
+dictionary.cambridge.org##.hdf.fon.z1.lcs.bh.pr
+dictionary.cambridge.org##a.wordlist-add-button.dwla
+dictionary.cambridge.org##.lp-10 > .lb-cm.lbt.had.degs > div.lpt-10.lb-cm.lbb > .pr.lpr-20.dsource > .pr0.pt0.pa.report-example-inappropriate
+
