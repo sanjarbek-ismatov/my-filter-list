@@ -49,10 +49,6 @@ www.w3schools.com##.ga-top-certificates.ga-top.w3-white.w3-right.w3-button.w3-ba
 www.w3schools.com##.ga-top-teachers.ga-top.w3-white.w3-right.w3-button.w3-bar-item.tnb-jobs-btn.tnb-for-teachers.user-authenticated
 www.w3schools.com###subtopnav
 
-! May 25, 2025 https://www.google.com
-www.google.com##.dRpWwb.M8OgIe.bzXtMb
-www.google.com##.q9ZDaf.YNk70c.rfiSsc
-
 ! May 30, 2025 https://www.msn.com
 www.msn.com##.header-DS-EntryPoint1-1
 www.msn.com###WeatherRightRail-ScreenWidth-c4
@@ -73,32 +69,13 @@ learnenglish.britishcouncil.org##.clearfix.block-block-contentd82111ef-61d3-44ed
 learnenglish.britishcouncil.org##.container.footer
 learnenglish.britishcouncil.org##.region-footer-top.region
 
-! May 27, 2025 https://www.google.com
-www.google.com##.KLEmSd.qS9jbf.ym1pid
-
 ! May 27, 2025 https://learnenglish.britishcouncil.org
 learnenglish.britishcouncil.org##.clearfix.block-block-content174f3255-62f2-4720-8dc3-5fa703eabc6c.block-block-content.block.wrapper-cta-blue-title
 
-! May 27, 2025 https://www.google.com
-www.google.com###slim_appbar
-
-! May 27, 2025 https://www.reddit.com
-www.reddit.com##.border-r-neutral-border.s\:border-r-sm.border-solid.border-0.m\:block.hidden.order-first.isolate.theme-rpl.left-sidebar
-www.reddit.com##.block.xs\:pb-0.pb-xl.xs\:max-w-\[316px\].xs\:w-\[316px\].w-full.min-w-0.right-sidebar
-www.reddit.com##.theme-beta.z-\[4\].fixed.right-0.left-0.top-0.nd\:visible
-www.reddit.com##.pdp-float-back-btn\:-left-\[2\.5rem\].pdp-float-back-btn\:top-md.pdp-float-back-btn\:absolute.h-\[32px\].w-\[32px\].xs\:block.hidden
 
 ! May 27, 2025 https://www.quora.com
 www.quora.com##.qu-hover--textDecoration--none.qu-cursor--pointer.qu-textAlign--center.qu-tapHighlight--white.qu-bg--red.qu-display--inline-flex.qu-userSelect--none.qu-whiteSpace--nowrap.qu-justifyContent--center.qu-alignItems--center.qu-borderRadius--pill.qu-ml--medium.qu-focus--textDecoration--none.qu-active--textDecoration--none.c1nud10e.b1cg7ppz.bobc9nh.b1l8alrs.b17i7nxr.q-click-wrapper
 www.quora.com##.qu-bg--raised.qu-mb--small.qu-boxShadow--small.qu-borderColor--raised.qu-borderAll.dom_annotate_question_answer_item_3.q-box > div > div > div > div > div.q-box
-
-! May 28, 2025 https://www.google.com
-!www.google.com###rso > .ULSxyf
-www.google.com###bres > .ULSxyf
-www.google.com##.gb_0.gb_dd.gb_J
-
-! May 28, 2025 https://www.youtube.com
-www.youtube.com###captionz-ytb-btn
 
 ! May 29, 2025 https://www.bbc.co.uk
 www.bbc.co.uk###bbcle-header
@@ -106,9 +83,6 @@ www.bbc.co.uk###bbcle-header
 ! May 29, 2025 https://dictionary.cambridge.org
 dictionary.cambridge.org##.cc-ans.cc
 dictionary.cambridge.org##.login-promo-block.lmb-25.lpt-20.lp-15.bo.pr
-
-! May 29, 2025 https://www.google.com
-www.google.com###sfooter
 
 ! May 31, 2025 https://www.geeksforgeeks.org
 www.geeksforgeeks.org##.google-translate-parent-element.header-main__left-list-item
@@ -121,9 +95,6 @@ mail.yandex.com##.UserID-name
 
 ! Jun 3, 2025 https://web.telegram.org
 web.telegram.org##.input-search
-
-! Jun 3, 2025 https://www.google.com
-www.google.com##.qogDvd
 
 ! Jun 3, 2025 https://www.quora.com
 www.quora.com##.false.q-box > .q-box
@@ -149,13 +120,44 @@ dictionary.cambridge.org##.hdf.fon.z1.lcs.bh.pr
 dictionary.cambridge.org##a.wordlist-add-button.dwla
 dictionary.cambridge.org##.lp-10 > .lb-cm.lbt.had.degs > div.lpt-10.lb-cm.lbb > .pr.lpr-20.dsource > .pr0.pt0.pa.report-example-inappropriate
 
-! Jun 12, 2025 https://www.youtube.com
-www.youtube.com###newness-dot
-www.youtube.com###end > .ytd-masthead.style-scope
-www.youtube.com###guide-button
-www.youtube.com###chip-bar
-www.youtube.com###guide
-www.youtube.com##yt-tab-shape.yt-tab-shape-wiz--host-clickable.yt-tab-shape-wiz:nth-of-type(3)
-www.youtube.com###content-wrapper
-www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+! Jul 17, 2025 https://music.yandex.uz
+music.yandex.uz##.VibeBlock_controls__BpDFL
+
+! Jul 24, 2025 https://uzmovi.tv
+uzmovi.tv###header > .container
+uzmovi.tv##.nav-tabs
+uzmovi.tv###mainbar > .row > .col-xs-12.col-md-3
+uzmovi.tv##.infobar-header
+uzmovi.tv###footer
+uzmovi.tv##.fstory-favorites > div
+uzmovi.tv##.fstory-favorites
+
+! Jul 25, 2025 https://www.google.com
+www.google.com##.SLPe5b.Kevs9
+
+! Jul 25, 2025 https://grok.com
+grok.com##.hover\:scale-\[1\.01\].ease-in-out.duration-300.transition-all.dark.hidden.gap-4.sm\:flex.text-left.group.right-2.bottom-2.rounded-3xl.min-\[384px\]\:min-w-52.min-\[384px\]\:w-max.border-card.cursor-pointer.border.text-white.text-xs.bg-black.w-\[calc\(100\%-16px\)\].items-center.py-4.px-5.fixed
+
+! Jul 25, 2025 https://www.google.com
+www.google.com###slim_appbar
+
+! Jul 25, 2025 https://en.wikipedia.org
+en.wikipedia.org##.vector-user-links-wide.vector-user-links
+
+! Jul 27, 2025 https://www.reddit.com
+www.reddit.com##reddit-recent-pages
+www.reddit.com##left-nav-top-section
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > hr.border-neutral-border-weak.my-sm.w-100
+www.reddit.com##.nd\:visible > .mt-0.list-none.relative > .bg-transparent.s\:rounded-2.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.active\:bg-interactive-pressed.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com###RESOURCES
+www.reddit.com##.select-none.min-h-screen-without-header.w-full.s\:shrink.shrink-0.pt-md.mb-0.mt-0.flex-col.flex.box-border.z-2 > nav > faceplate-expandable-section-helper > .rounded-none.border-none.bg-transparent.m-0.p-0 > .font-normal > faceplate-tracker > .mt-0.list-none.relative > .s\:rounded-2.bg-transparent.-outline-offset-1.py-2xs.cursor-pointer.hover\:no-underline.hover\:bg-neutral-background-hover.hover\:text-secondary-hover.text-secondary.gap-\[0\.5rem\].px-md.relative.justify-between.flex
+www.reddit.com##.gap-xs.items-center.flex-wrap.gap-\[var\(--rem4\)\].flex.text-neutral-content-weak
+www.reddit.com##advertise-button > .contents.nd\:visible > .contents.nd\:visible > .inline-flex.button.justify-center.items-center.icon.button-plain.px-\[var\(--rem8\)\].button-medium
+www.reddit.com###reddit-trending-searches-partial-container
+www.reddit.com##.ml-md.mt-sm.mb-2xs.text-neutral-content-weak.flex.items-center
+www.reddit.com##faceplate-expandable-section-helper.last-dropdown-section
+
+! Jul 28, 2025 https://www.reddit.com
+www.reddit.com##.nd\:pt-\[54px\].nd\:mt-md.nd\:rounded-4.nd\:bg-neutral-background-weak
 
